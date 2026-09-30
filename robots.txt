@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ineed-application.github.io/ineed-trust-center/sitemap.xml
