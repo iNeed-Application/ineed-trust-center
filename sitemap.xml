@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ineed-application.github.io/springboot-main-app/</loc></url>
-  <url><loc>https://ineed-application.github.io/springboot-main-app/privacy-policy.html</loc></url>
-  <url><loc>https://ineed-application.github.io/springboot-main-app/data-deletion.html</loc></url>
-  <url><loc>https://ineed-application.github.io/springboot-main-app/terms-of-service.html</loc></url>
-  <url><loc>https://ineed-application.github.io/springboot-main-app/contact.html</loc></url>
+  <url><loc>https://ineed-application.github.io/ineed-trust-center/</loc></url>
+  <url><loc>https://ineed-application.github.io/ineed-trust-center/privacy-policy.html</loc></url>
+  <url><loc>https://ineed-application.github.io/ineed-trust-center/data-deletion.html</loc></url>
+  <url><loc>https://ineed-application.github.io/ineed-trust-center/terms-of-service.html</loc></url>
+  <url><loc>https://ineed-application.github.io/ineed-trust-center/contact.html</loc></url>
 </urlset>

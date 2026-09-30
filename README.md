@@ -15,10 +15,10 @@ Use these URLs after GitHub Pages reports a successful deployment:
 
 ```text
 Privacy Policy URL:
-https://ineed-application.github.io/springboot-main-app/privacy-policy.html
+https://ineed-application.github.io/ineed-trust-center/privacy-policy.html
 
 User Data Deletion URL:
-https://ineed-application.github.io/springboot-main-app/data-deletion.html
+https://ineed-application.github.io/ineed-trust-center/data-deletion.html
 ```
 
 The application icon prepared for Meta is `assets/ineed-app-icon-1024.png`.
